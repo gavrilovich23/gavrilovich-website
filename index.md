@@ -1,4 +1,4 @@
-## Welcome to Gavrilovich website
+## Max Gavrilovich
 
 You can use the [editor on GitHub](https://github.com/gavrilovich23/gavrilovich-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
